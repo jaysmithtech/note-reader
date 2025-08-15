@@ -1,0 +1,3 @@
+# This file ensures the notes folder is tracked in git
+# The actual note files are ignored by .gitignore
+# Users can add their own documents to this folder
