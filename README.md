@@ -7,7 +7,7 @@ Transform your notes into an intelligent, searchable knowledge base. Ask questio
 ![Note Reader Chat](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-green?style=for-the-badge&logo=flask)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1.0-orange?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-purple?style=for-the-badge&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-purple?style=for-the-badge&logo=openai)
 
 ## ✨ Features
 
