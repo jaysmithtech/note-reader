@@ -248,14 +248,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **FAISS** for vector similarity search
 - **React** and **Tailwind CSS** for the beautiful UI
 
-## 📞 Support
-
-- **GitHub Issues**: [Report bugs or request features](../../issues)
-- **Discussions**: [Join the community](../../discussions)
-- **Email**: your.email@example.com
-
 ---
 
-**Made with ❤️ by [Your Name]**
-
-*Transform your notes into an intelligent knowledge base today!*
+**Made with ❤️ by Jaylon**
